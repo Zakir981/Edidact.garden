@@ -3,6 +3,6 @@ title: Index
 ---
 авыа
 
-> [!danger] ЕЩЕ ОДНА ПРОВЕРКА ЖЕСТКАЯ 
+> [!note] ЕЩЕ ОДНА ПРОВЕРКА ЖЕСТКАЯ 
 Proverkaаfdf
 [[test 2]]
