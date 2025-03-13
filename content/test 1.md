@@ -1,1 +1,1 @@
-![[index|Edidact]]
+[[index|Edidact]]
