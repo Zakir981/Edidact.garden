@@ -9,5 +9,8 @@ aliases:
   - dashboard
   - Edidact
 date: 2025-03-13
-draft: true
+draft: false
 ---
+
+### Источники
+- так и так
