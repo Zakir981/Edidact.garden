@@ -24,14 +24,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: {
-          name: "Big Shoulders",
-          weights: [400, 700],
-        },
-        body: "Big Shoulders",
-          name: "Big Shoulders",
-          weights: [400, 700],
-        },
+        header: "Big Shoulders Display",
+        body: "Big Shoulders Display",
         code: "IBM Plex Mono",
       },
       colors: {
