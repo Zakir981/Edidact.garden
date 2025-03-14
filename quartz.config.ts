@@ -24,8 +24,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Mulish",
-        body: "Pacifico",
+        header: "Big Shoulders Stencil",
+        body: "Big Shoulders Stencil",
         code: "IBM Plex Mono",
       },
       colors: {
