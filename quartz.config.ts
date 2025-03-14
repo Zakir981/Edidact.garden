@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: 'google', tagId: '<G-DLD908YWKW>',
     },
-    locale: "ru-RU",
+    locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
@@ -24,8 +24,14 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Big Shoulders",
+        header: {
+          name: "Big Shoulders",
+          weights: [400, 700],
+        },
         body: "Big Shoulders",
+          name: "Big Shoulders",
+          weights: [400, 700],
+        },
         code: "IBM Plex Mono",
       },
       colors: {
