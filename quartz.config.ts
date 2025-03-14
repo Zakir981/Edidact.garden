@@ -24,8 +24,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Montserrat",
-        body: "Montserrat",
+        header: "Oswald",
+        body: "Oswald",
         code: "IBM Plex Mono",
       },
       colors: {
