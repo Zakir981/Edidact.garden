@@ -20,6 +20,11 @@ draft: false
 самообучение
 самообразование
 
+`pageTitle: "🎓 Edidact",`
+`pageTitleSuffix: "",`
+`enableSPA: true,`
+`enablePopovers: true,`
+`analytics: {`
 
 > [!note] ЕЩЕ ОДНА ПРОВЕРКА ЖЕСТКАЯ 
 Proverkaаfdf
