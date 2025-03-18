@@ -1,5 +1,5 @@
 ---
-title: чтений статей
+title: статьи
 description: 
 permalink: 
 tags: 

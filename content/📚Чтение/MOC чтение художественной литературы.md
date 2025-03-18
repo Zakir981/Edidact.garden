@@ -1,5 +1,5 @@
 ---
-title: чтение художественной литературы
+title: художественная литература
 description: 
 permalink: 
 tags: 
