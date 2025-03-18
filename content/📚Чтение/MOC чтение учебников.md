@@ -1,5 +1,5 @@
 ---
-title: Учебники
+title: чтение учебников
 description: 
 permalink: 
 tags: 
